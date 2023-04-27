@@ -1,4 +1,4 @@
-<b>Flutter study - Timer app.(Pomorodo)</b>
+<b>Flutter study - Timer app. (Pomorodo)</b>
 
 <img src="https://user-images.githubusercontent.com/90739311/234783279-1845b3c3-ee3e-4a42-a427-abe60dba6613.png" width="150"/>
 
