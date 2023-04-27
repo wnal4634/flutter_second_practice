@@ -1,14 +1,6 @@
-Flutter project.
+Flutter study - Timer app.
 
-## Getting Started
+![Screenshot_1682578088](https://user-images.githubusercontent.com/90739311/234782279-ec7128ef-1b3a-419a-80cb-76aba847da5b.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
--   [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
--   [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+실행 샷
+![untitled](https://user-images.githubusercontent.com/90739311/234782364-de7edd09-d2c1-4909-871c-d6f1abdcef7c.gif)
